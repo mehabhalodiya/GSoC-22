@@ -12,6 +12,8 @@ This repository contains details about my work in Google Summer of Code 2022.
 ## Table Of Contents
 
 - [GSoC 2022 Project Proposal](GSoC_2022_Project_Proposal)
+- [Meeting Notes](https://docs.google.com/document/d/1AWTQdsJPJpZUgmY3qJ-QHewHvEukt7aHQTOJtnYsxVQ/edit?usp=sharing)
+- [Scrum Board](https://github.com/keptn-sandbox/keptn-flux-integration/projects/1)
 
 ## References
 
